@@ -1,4 +1,5 @@
-🗂️ Real-World Data Wrangling with Python
+***🗂️ Real-World Data Wrangling with Python***
+
 This project demonstrates techniques for gathering, cleaning, transforming, and analyzing real-world data using Python. The focus is on practical data wrangling methods to handle messy datasets and derive meaningful insights.
 
 📚 Table of Contents
